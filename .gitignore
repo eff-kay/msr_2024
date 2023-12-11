@@ -1,0 +1,6 @@
+venv
+artifact*/*
+results*/*
+snapshot*/*
+new_artifacts*/*
+old_calculations*/*
